@@ -1,0 +1,260 @@
+{
+    "Step0.03": {
+        "AP_amplitude_from_voltagebase": {
+            "Std": 0.1,
+            "Mean": 81.36660823057083,
+            "Type": "AP_amplitude_from_voltagebase",
+            "Weight": 0.1,
+            "Stimulus": "Step0.03"
+        },
+        "AP_width": {
+            "Std": 0.01,
+            "Mean": 0.8666666666658784,
+            "Type": "AP_width",
+            "Weight": 0.01,
+            "Stimulus": "Step0.03"
+        },
+        "AP_amplitude": {
+            "Std": 0.1,
+            "Mean": 80.03055793549078,
+            "Type": "AP_amplitude",
+            "Weight": 0.1,
+            "Stimulus": "Step0.03"
+        },
+        "AHP_time_from_peak": {
+            "Std": 0.1,
+            "Mean": 2.3166666666645597,
+            "Type": "AHP_time_from_peak",
+            "Weight": 0.1,
+            "Stimulus": "Step0.03"
+        },
+        "time_to_first_spike": {
+            "Std": 1,
+            "Mean": 91.90000000010241,
+            "Type": "time_to_first_spike",
+            "Weight": 1,
+            "Stimulus": "Step0.03"
+        },
+        "voltage_base": {
+            "Std": 0.1,
+            "Mean": -75.11163678772134,
+            "Type": "voltage_base",
+            "Weight": 0.1,
+            "Stimulus": "Step0.03"
+        },
+        "AP_amplitude_change": {
+            "Std": 0.001,
+            "Mean": 0.2523262163876897,
+            "Type": "AP_amplitude_change",
+            "Weight": 0.001,
+            "Stimulus": "Step0.03"
+        },
+        "AP_duration_half_width": {
+            "Std": 0.01,
+            "Mean": 1.3666666666654237,
+            "Type": "AP_duration_half_width",
+            "Weight": 0.01,
+            "Stimulus": "Step0.03"
+        },
+        "AHP_depth": {
+            "Std": 0.1,
+            "Mean": -6.220100159309112,
+            "Type": "AHP_depth",
+            "Weight": 0.1,
+            "Stimulus": "Step0.03"
+        },
+        "mean_frequency": {
+            "Std": 0.1,
+            "Mean": 3.075818936794425,
+            "Type": "mean_frequency",
+            "Weight": 0.1,
+            "Stimulus": "Step0.03"
+        },
+        "AHP_slow_time": {
+            "Std": 0.001,
+            "Mean": 0.013692400037827613,
+            "Type": "AHP_slow_time",
+            "Weight": 0.001,
+            "Stimulus": "Step0.03"
+        },
+        "adaptation_index": {
+            "Std": 0.001,
+            "Mean": -0.001700236730338944,
+            "Type": "adaptation_index",
+            "Weight": 0.001,
+            "Stimulus": "Step0.03"
+        }
+    },
+    "Step0.06": {
+        "AP_amplitude_from_voltagebase": {
+            "Std": 0.1,
+            "Mean": 82.73413602705355,
+            "Type": "AP_amplitude_from_voltagebase",
+            "Weight": 0.1,
+            "Stimulus": "Step0.06"
+        },
+        "AP_width": {
+            "Std": 0.01,
+            "Mean": 0.8919999999991888,
+            "Type": "AP_width",
+            "Weight": 0.01,
+            "Stimulus": "Step0.06"
+        },
+        "AP_amplitude": {
+            "Std": 0.1,
+            "Mean": 72.72912557881756,
+            "Type": "AP_amplitude",
+            "Weight": 0.1,
+            "Stimulus": "Step0.06"
+        },
+        "AHP_time_from_peak": {
+            "Std": 0.1,
+            "Mean": 2.283999999997923,
+            "Type": "AHP_time_from_peak",
+            "Weight": 0.1,
+            "Stimulus": "Step0.06"
+        },
+        "time_to_first_spike": {
+            "Std": 1,
+            "Mean": 25.200000000163072,
+            "Type": "time_to_first_spike",
+            "Weight": 1,
+            "Stimulus": "Step0.06"
+        },
+        "voltage_base": {
+            "Std": 0.1,
+            "Mean": -75.11163678338602,
+            "Type": "voltage_base",
+            "Weight": 0.1,
+            "Stimulus": "Step0.06"
+        },
+        "AP_amplitude_change": {
+            "Std": 0.001,
+            "Mean": -0.16755323219307186,
+            "Type": "AP_amplitude_change",
+            "Weight": 0.001,
+            "Stimulus": "Step0.06"
+        },
+        "AP_duration_half_width": {
+            "Std": 0.01,
+            "Mean": 1.1639999999989414,
+            "Type": "AP_duration_half_width",
+            "Weight": 0.01,
+            "Stimulus": "Step0.06"
+        },
+        "AHP_depth": {
+            "Std": 0.1,
+            "Mean": -5.536064366595671,
+            "Type": "AHP_depth",
+            "Weight": 0.1,
+            "Stimulus": "Step0.06"
+        },
+        "mean_frequency": {
+            "Std": 0.1,
+            "Mean": 12.564708247484747,
+            "Type": "mean_frequency",
+            "Weight": 0.1,
+            "Stimulus": "Step0.06"
+        },
+        "AHP_slow_time": {
+            "Std": 0.001,
+            "Mean": 0.061566567634910634,
+            "Type": "AHP_slow_time",
+            "Weight": 0.001,
+            "Stimulus": "Step0.06"
+        },
+        "adaptation_index": {
+            "Std": 0.001,
+            "Mean": 0.0006372470072237051,
+            "Type": "adaptation_index",
+            "Weight": 0.001,
+            "Stimulus": "Step0.06"
+        }
+    },
+    "Step0.09": {
+        "AP_amplitude_from_voltagebase": {
+            "Std": 0.1,
+            "Mean": 84.93325823928792,
+            "Type": "AP_amplitude_from_voltagebase",
+            "Weight": 0.1,
+            "Stimulus": "Step0.09"
+        },
+        "AP_width": {
+            "Std": 0.01,
+            "Mean": 0.9209302325573284,
+            "Type": "AP_width",
+            "Weight": 0.01,
+            "Stimulus": "Step0.09"
+        },
+        "AP_amplitude": {
+            "Std": 0.1,
+            "Mean": 81.91472738938742,
+            "Type": "AP_amplitude",
+            "Weight": 0.1,
+            "Stimulus": "Step0.09"
+        },
+        "AHP_time_from_peak": {
+            "Std": 0.1,
+            "Mean": 2.195348837207364,
+            "Type": "AHP_time_from_peak",
+            "Weight": 0.1,
+            "Stimulus": "Step0.09"
+        },
+        "time_to_first_spike": {
+            "Std": 1,
+            "Mean": 15.200000000162277,
+            "Type": "time_to_first_spike",
+            "Weight": 1,
+            "Stimulus": "Step0.09"
+        },
+        "voltage_base": {
+            "Std": 0.1,
+            "Mean": -75.11163677453075,
+            "Type": "voltage_base",
+            "Weight": 0.1,
+            "Stimulus": "Step0.09"
+        },
+        "AP_amplitude_change": {
+            "Std": 0.001,
+            "Mean": -0.09241981222259649,
+            "Type": "AP_amplitude_change",
+            "Weight": 0.001,
+            "Stimulus": "Step0.09"
+        },
+        "AP_duration_half_width": {
+            "Std": 0.01,
+            "Mean": 1.299999999998852,
+            "Type": "AP_duration_half_width",
+            "Weight": 0.01,
+            "Stimulus": "Step0.09"
+        },
+        "AHP_depth": {
+            "Std": 0.1,
+            "Mean": -5.33580383505572,
+            "Type": "AHP_depth",
+            "Weight": 0.1,
+            "Stimulus": "Step0.09"
+        },
+        "mean_frequency": {
+            "Std": 0.1,
+            "Mean": 21.56793900789241,
+            "Type": "mean_frequency",
+            "Weight": 0.1,
+            "Stimulus": "Step0.09"
+        },
+        "AHP_slow_time": {
+            "Std": 0.001,
+            "Mean": 0.10754388630836861,
+            "Type": "AHP_slow_time",
+            "Weight": 0.001,
+            "Stimulus": "Step0.09"
+        },
+        "adaptation_index": {
+            "Std": 0.001,
+            "Mean": 0.0015866242422519464,
+            "Type": "adaptation_index",
+            "Weight": 0.001,
+            "Stimulus": "Step0.09"
+        }
+    }
+}
